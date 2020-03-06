@@ -1,0 +1,27 @@
+# Inventor
+*.[iI][pP][tT] filter=lfs diff=lfs merge=lfs -text
+*.[iI][aA][mM] filter=lfs diff=lfs merge=lfs -text
+*.[dD][wW][gG] filter=lfs diff=lfs merge=lfs -text
+*.[iI][dD][wW] filter=lfs diff=lfs merge=lfs -text
+
+# CAD
+*.[sS][tT][pP] filter=lfs diff=lfs merge=lfs -text
+
+# Documentation
+*.[pP][dD][fF] filter=lfs diff=lfs merge=lfs -text
+
+# Office
+*.[pP][pP][tT][xX] filter=lfs diff=lfs merge=lfs -text
+*.[pP][pP][tT] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS][xX] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS] filter=lfs diff=lfs merge=lfs -text
+*.[dD][oO][cC][xX] filter=lfs diff=lfs merge=lfs -text
+*.[dD][oO][cC] filter=lfs diff=lfs merge=lfs -text
+
+# Images
+*.[jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text
+*.[jJ][pP][eE][gG] filter=lfs diff=lfs merge=lfs -text
+*.[pP][nN][gG] filter=lfs diff=lfs merge=lfs -text
+
+# Packaging
+*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text

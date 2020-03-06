@@ -1,0 +1,116 @@
+Prime (0-inf): Primer syringe only draw in w aspirate off, dispense with aspirate on
+Dispense_count (1-4): All six syringes draw in w aspirate off, dispense with aspirate off
+Aspirate (t/f): main aspirate on for period of time
+Separate (t/f): separate for period of time
+
+
+- chemical: PBT
+  prime: 2
+  dispense_count: 2
+  shake_speed: 200
+  shake_duration: 10
+  post_shake_duration: 0
+  separate: false
+  aspirate: true
+  repeat: 0
+
+- chemical: Bleach
+  prime: 1
+  dispense_count: 2
+  shake_speed: 400
+  shake_duration: 120
+  post_shake_duration: 0
+  separate: false
+  aspirate: true
+  repeat: 0
+
+- chemical: PBT
+  prime: 2
+  dispense_count: 2
+  shake_speed: 400
+  shake_duration: 20
+  post_shake_duration: 0
+  separate: false
+  aspirate: true
+  repeat: 6
+
+- chemical: Heptane
+  prime: 2
+  dispense_count: 1
+  shake_speed: 0
+  shake_duration: 0
+  post_shake_duration: 0
+  separate: false
+  aspirate: false
+  repeat: 0
+
+- chemical: PFA
+  prime: 2
+  dispense_count: 1
+  shake_speed: 500
+  shake_duration: 1200
+  post_shake_duration: 0
+  separate: false
+  aspirate: true
+  repeat: 0
+
+- chemical: Heptane
+  prime: 2
+  dispense_count: 1
+  shake_speed: 0
+  shake_duration: 0
+  post_shake_duration: 0
+  separate: false
+  aspirate: false
+  repeat: 0
+
+- chemical: Methanol
+  prime: 2
+  dispense_count: 1
+  shake_speed: 1000
+  shake_duration: 60
+  post_shake_duration: 10
+  separate: false
+  aspirate: false
+  repeat: 0
+
+
+- chemical: Methanol
+  prime: 0
+  dispense_count: 1
+  shake_speed: 0
+  shake_duration: 5
+  post_shake_duration: 0
+  separate: false
+  aspirate: false
+  repeat: 0
+
+- chemical: Methanol
+  prime: 0
+  dispense_count: 1
+  shake_speed: 0
+  shake_duration: 5
+  post_shake_duration: 0
+  separate: true
+  aspirate: false
+  repeat: 1
+
+- chemical: Methanol
+  prime: 0
+  dispense_count: 1
+  shake_speed: 0
+  shake_duration: 5
+  post_shake_duration: 0
+  separate: true
+  aspirate: true
+  repeat: 0
+
+- chemical: PBT
+  prime: 2
+  dispense_count: 2
+  shake_speed: 400
+  shake_duration: 30
+  post_shake_duration: 0
+  separate: false
+  aspirate: true
+  repeat: 2

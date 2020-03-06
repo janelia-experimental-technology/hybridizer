@@ -1,0 +1,13 @@
+#+TITLE: Hybridizer
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Library Information
+  - Name :: Hybridizer
+  - Version :: 0.1.0
+  - License :: BSD
+  - URL :: https://github.com/janelia-experimental-technology/hybridizer
+  - Author :: Peter Polidoro
+  - Email :: peterpolidoro@gmail.com
+
+** Description
