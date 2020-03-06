@@ -11,3 +11,7 @@
   - Email :: peterpolidoro@gmail.com
 
 ** Description
+
+* Host Computer Control Software
+
+  [[https://github.com/janelia-pypi/hybridizer_python.git]]
